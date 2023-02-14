@@ -18,12 +18,10 @@ env/
 log.txt
 .DS_Store
 scripts/shape/__pycache__
-<<<<<<< HEAD
-=======
 practica/week1/.ipynb_checkpoints/
 practica/pics/.ipynb_checkpoints/mars.nasa-checkpoint.jpg
 practica/week1/booleans_with_solutions.ipynb
 practica/week1/numbers_with_solutions.ipynb
 practica/week1/strings_with_solutions.ipynb
 practica/week2/dictionaries_with_solutions.ipynb
->>>>>>> 2763ff35cb5709537dfc2b34c99807de594a47d5
+practica/week2/.ipynb_checkpoints/dictionaries-checkpoint.ipynb
